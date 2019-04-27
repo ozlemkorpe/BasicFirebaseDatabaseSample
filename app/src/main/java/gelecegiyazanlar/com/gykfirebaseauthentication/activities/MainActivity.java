@@ -22,7 +22,7 @@ import gelecegiyazanlar.com.gykfirebaseauthentication.fragments.ProfileFragment;
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
-
+    //Comment Line
     FirebaseAuth mAuth;
 
     @Override
